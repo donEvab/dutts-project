@@ -1,0 +1,1 @@
+Letakkan file video Anda dengan nama 'background.mp4' di dalam folder public ini (public/background.mp4) jika ingin menggunakan video lokal langsung saat di-deploy atau di-run secara mandiri di laptop.

@@ -1,0 +1,6 @@
+# Letakkan kumpulan frame foto/gambar Anda di dalam folder ini (/public/frames/)
+# Format penamaan yang didukung:
+# - frame_0001.webp / frame_0001.jpg / frame_0001.png
+# - frame_001.webp / frame_001.jpg / frame_001.png
+# - 0001.webp / 0001.jpg / 0001.png
+# Dimulai dari nomor urut 1 sampai frame terakhir.

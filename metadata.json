@@ -1,0 +1,6 @@
+{
+  "name": "Dutts.Project - Konveksi & Full Production",
+  "description": "Modern scroll-driven interactive website for Dutts.Project, high-end apparel production and konveksi for local brands, streetwear, and institutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
